@@ -1,0 +1,13 @@
+{
+    "name": "authentic-policy-alarm",
+    "version": "1.0.0",
+    "description": "This is a simple server for POLAR",
+    "main": "server.js",
+    "scripts": {
+      "start": "npm i && node server.js"
+    },
+    "dependencies": {
+      "express": "^4.19.2",
+      "body-parser": "^1.20.2"
+    }
+  }
